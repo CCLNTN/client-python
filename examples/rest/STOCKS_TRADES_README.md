@@ -63,6 +63,8 @@ The script generates a Parquet file containing the following fields for each tra
 
 ## Example Output
 
+**Note**: The example below shows the configured ticker (IREN) and date range (2025). Actual trade counts will vary based on market activity during that period.
+
 ```
 Downloading trades for IREN from 2025-01-01 to 2025-12-31...
 This may take some time due to API rate limits and pagination...
